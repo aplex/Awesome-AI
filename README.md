@@ -353,6 +353,7 @@
 | [Codewand](https://www.codewand.co/?ref=awe50meAI) |     Use GPT-4 to build software with natural language.  |
 | [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
 | [Rix](https://hashnode.com/rix/?ref=awe50meAI) |     The Ultimate AI-Powered Chatbot for Developers  |
+| [Nekton AI](https://nekton.ai) |  Automate your workflows with AI. Describe your workflows step by step in plain language. Nekton will convert those steps to code using AI and run it in the cloud. Use Nekton to automate the routine processes for yourself and your team without needing to maintain infrastructure. |
 
 ## color tools
 | Awesome | Description |
